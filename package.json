@@ -8,10 +8,15 @@
   "engines": {
     "vscode": "^1.72.0"
   },
-  "icon": "images/icon.png",
   "categories": [
     "Other"
   ],
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angelomarques/react-component-boilerplate-generator.git"
+  },
+  "homepage": "https://github.com/angelomarques/react-component-boilerplate-generator/blob/main/README.md",
   "activationEvents": [
     "onCommand:react-component-boilerplate-generator.create-component"
   ],
