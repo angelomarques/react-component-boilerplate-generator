@@ -5,6 +5,7 @@
   "version": "0.0.1",
   "private": true,
   "license": "MIT",
+  "publisher": "angelomarques",
   "engines": {
     "vscode": "^1.72.0"
   },
